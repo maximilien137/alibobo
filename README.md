@@ -1,1 +1,1 @@
-# alibobo
+# alibobo : des projects pour des bobo
