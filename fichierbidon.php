@@ -7,10 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <header>
-<h1>Header</h1>
-</header>
 
-
-
-
+<header></header>
+<main></main>
+<footer></footer>
+    
+</body>
+</html>
